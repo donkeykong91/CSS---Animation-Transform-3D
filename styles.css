@@ -5,12 +5,12 @@ body {
 
 .wrapper {
 	margin: 2em auto 2em auto;
-	perspective: 100px;
+	perspective: 1000px;
 }
 
 img {
 	display:block;
 	margin: 0 auto;
 
-	transform: rotateY(45deg);
+	transform: rotateY(45deg) rotateX(20deg);
 }
