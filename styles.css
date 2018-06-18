@@ -5,7 +5,7 @@ body {
 
 .wrapper {
 	margin: 2em auto 2em auto;
-	perspective: 1000px;
+	perspective: 100px;
 }
 
 img {
